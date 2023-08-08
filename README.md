@@ -7,7 +7,9 @@ Este es un ejercicio sencillo en el que nos pidieron:
 
 Usando la API de Rick y Morty (https://rickandmortyapi.com/api/character), crea una página que muestre una ficha por cada personaje.
 La ficha debe mostrar la imagen, el nombre, estado (Alive/Dead/Unknown), el género, la especie y el origen del personaje. El estado, además, tendrá diferenciación visual, y si el origen no es desconocido, será un enlace (a la propia API).
+
 Para ello, debes crear una función que reciba un personaje (objeto) y devuelva la ficha.
+
 A mayores, usa CSS para modificar el aspecto. Debe visualizarse como una galería, con varias columnas de fichas (si caben) y debe ser responsive.
 
 
